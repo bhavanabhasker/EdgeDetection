@@ -1,10 +1,10 @@
 # EdgeDetection
 Image Processing: Edge Detection using Open CV and TensorFlow 
 
-##Objective 
+## Objective 
 Canny algorithm is used for edge detection. This is a quick start program for using open CV2.
 
-##About Canny algorithm 
+## About Canny algorithm 
 
 The following simple steps are followed for edge detection using Canny algorithm,
 
